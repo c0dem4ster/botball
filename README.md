@@ -1,4 +1,5 @@
 # botball
-A Program allowing you to easily draw and manipulate robots,
+A program allowing you to easily draw and manipulate robots,
 aimed at testing your own botball algorithms and visualizing them.
-Screenshot:
+It is written in C++ using the Qt Framework.
+![screenshot](https://raw.github)
